@@ -1,0 +1,14 @@
+{
+  "user": "jana-1729",
+  "totalContributions": 800,
+  "topRepos": [
+    { "name": "file-vault-mcp", "description": "Model Context Protocol server exposing scoped CRUD over a vault directory — drop-in for Claude Desktop, Cursor, and any MCP-compatible agent host.", "language": "TypeScript", "stars": 0, "url": "https://github.com/jana-1729/file-vault-mcp" },
+    { "name": "AgentLoop", "description": "Experimental TypeScript runtime for the canonical agent loop — model call, tool dispatch, observation, repeat — with deterministic state snapshots between steps.", "language": "TypeScript", "stars": 0, "url": "https://github.com/jana-1729/AgentLoop" },
+    { "name": "Figma-i18n-Extractor", "description": "Figma plugin that walks every text node in a frame and exports structured JSON for i18next, FormatJS, and custom localization pipelines.", "language": "HTML", "stars": 1, "url": "https://github.com/jana-1729/Figma-i18n-Extractor" },
+    { "name": "Rule-Engine-v1", "description": "Configurable rule engine v1 in TypeScript — declarative conditions, composable actions, and a small evaluator core.", "language": "TypeScript", "stars": 0, "url": "https://github.com/jana-1729/Rule-Engine-v1" },
+    { "name": "token-trading-table", "description": "Trading table UI built around token-style state cells — experiment in dense data layouts with React + TS.", "language": "TypeScript", "stars": 0, "url": "https://github.com/jana-1729/token-trading-table" },
+    { "name": "resume-builder", "description": "Drag-and-drop résumé builder in JavaScript — composable section blocks, live preview, JSON-driven layout.", "language": "JavaScript", "stars": 0, "url": "https://github.com/jana-1729/resume-builder" },
+    { "name": "Customer-Labs-React-Test", "description": "React + TypeScript take-home for Customer Labs — typed data flow, performance-friendly list rendering, design-system primitives.", "language": "TypeScript", "stars": 0, "url": "https://github.com/jana-1729/Customer-Labs-React-Test" },
+    { "name": "Thoughts-of-Jana", "description": "Personal writing space and rough-cut ideas in TypeScript — markdown-first, opinion-second.", "language": "TypeScript", "stars": 0, "url": "https://github.com/jana-1729/Thoughts-of-Jana" }
+  ]
+}
