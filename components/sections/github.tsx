@@ -20,8 +20,12 @@ export async function Github() {
         </a>
       </div>
       <div className="grid md:grid-cols-2 gap-4">
-        {data.topRepos.map((r) => (
-          <a
+        {data.topRepos.map((r) => {
+          if(r.name === "portfolio"){
+            return <></>
+          } else {
+            return (
+              <a
             key={r.name}
             href={r.url}
             target="_blank"
@@ -40,7 +44,9 @@ export async function Github() {
             <p className="mt-2 text-sm text-[var(--color-muted)] line-clamp-3">{r.description || "—"}</p>
             <p className="mt-3 font-mono text-[10px] uppercase tracking-widest text-[var(--color-cyan)]">{r.language}</p>
           </a>
-        ))}
+            )
+          }
+        })}
       </div>
     </SectionShell>
   );
